@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Some {
+    color: #000;
+    font-size:  72px;
+    font-weight: 700;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#Foto img {
+    height: 446px;
+}
+
+#Night {
+    margin: 200px;
+    margin-top: 0;
+    margin-bottom: 0; 
+    font-size: 43px;
+    color: #000;
+    margin-left: 40px;
+}
+
+#Sky p {
+    color: #414651;
+    width: 500px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    margin: 30px;
+}
+
+#Numbered {
+    color: #155EEF;
+    font-size:  16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    align-self: stretch;
+}
+
+#Read {
+    color: #CEA201;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 12px 32px;
+    gap: 10px;
+    border: 2px solid #CEA201;
+    width: 150px;
+    margin: 30px;
+}
+
+#Magic {
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 30px;
+}
+
+#Know {
+    color: #414651;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 722px;
+    text-align: center;
+    gap: 10px;
+}
