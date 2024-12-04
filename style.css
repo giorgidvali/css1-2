@@ -6,7 +6,7 @@
 
 #Some {
     color: #000;
-    font-size:  72px;
+    font-size: 72px;
     font-weight: 700;
     margin: 0 auto;
     text-align: center;
@@ -19,29 +19,33 @@
 #Night {
     margin: 200px;
     margin-top: 0;
-    margin-bottom: 0; 
+    margin-bottom: 0;
     font-size: 43px;
     color: #000;
-    margin-left: 40px;
+    margin-left: 60px;
+    width: 568px;
 }
 
 #Sky p {
     color: #414651;
-    width: 500px;
+    width: 568px;
     font-size: 20px;
     font-weight: 400;
-    line-height: 24px;
-    text-align: center;
+    line-height: 20px;
     margin: 30px;
+    height: 96px;
 }
 
 #Numbered {
     color: #155EEF;
-    font-size:  16px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
     align-self: stretch;
+    width: 568px;
+    height: 144px;
+    margin-left: 50px;
 }
 
 #Read {
@@ -49,11 +53,10 @@
     font-size: 24px;
     font-weight: 400;
     line-height: 32px;
-    padding: 12px 32px;
-    gap: 10px;
-    border: 2px solid #CEA201;
-    width: 150px;
+    width: 200px;
     margin: 30px;
+    padding: 12px 32px;
+    border: 2px solid #CEA201;
 }
 
 #Magic {
@@ -62,6 +65,8 @@
     font-style: normal;
     font-weight: 700;
     margin: 30px;
+    width: 722px;
+
 }
 
 #Know {
@@ -72,5 +77,69 @@
     line-height: 24px;
     width: 722px;
     text-align: center;
-    gap: 10px;
+    margin: 30px;
+}
+
+#Works {
+    width: 100%;
+}
+
+#main_text {
+    color: #00C76E;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 190px;
+}
+
+#Molecule {
+    color: #FF5DA3;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#Main {
+    width: 100%;
+}
+
+#headline{
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+#MioreFoto {
+    margin: 30px;
+}
+
+#Where {
+    color: #414651;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+    padding-bottom: 16px;
+    width: 722px;
+}
+
+#See {
+    margin-left: 30px;
+}
+
+#Ragaca {
+    background-color: #FFDEF0;
+    border: 6px solid #C11574;
+    width: 722px;
+    margin: 30px;
+}
+
+#FotoRagaca {
+    margin: 30px;
+}
+
+#The {
+    color: #00D4BC;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-left: 550px;
 }
